@@ -1,5 +1,10 @@
 pandas 
-numpy 
 seaborn 
-
--e .
+matplotlib
+xgboost
+flask
+scikit-learn
+catboost
+numpy==1.26.4
+dill
+#-e .
