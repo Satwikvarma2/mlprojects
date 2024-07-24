@@ -5,6 +5,6 @@ xgboost
 flask
 scikit-learn
 catboost
-numpy==1.26.4
+numpy
 dill
 #-e .
